@@ -75,7 +75,7 @@ looking_for: SWE / AI internships & co-ops
 #### 🍓 BodIQ AI
 `React Native` `Expo` `Supabase` `Gemini Vision`
 
-AI nutrition & fitness coach, **live on the App Store** with 70 users. Log meals by snapping a photo (Gemini Vision) or scanning a barcode (OpenFoodFacts). All AI calls run server-side in Supabase Edge Functions with Row-Level Security and per-user scan quotas.
+AI nutrition & fitness coach, **live on the App Store** with more than 70 users. Log meals by snapping a photo (Gemini Vision) or scanning a barcode (OpenFoodFacts) and AI coach. All AI calls run server-side in Supabase Edge Functions with Row-Level Security and per-user scan quotas.
 
 [App Store](https://apps.apple.com/us/app/bodiq-ai/id6772247390) · [bodiqai.com](https://bodiqai.com/) · [Demo](https://www.instagram.com/reel/Dchlc3ZtIAm/)
 
