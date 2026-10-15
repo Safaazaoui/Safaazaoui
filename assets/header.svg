@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="860" height="300" viewBox="0 0 860 300" role="img" aria-label="Terminal window: safaa@tmu, Computer Science (Co-op) student building AI-powered apps">
+  <style>
+    .mono { font-family: 'JetBrains Mono', 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace; }
+    .prompt { fill: #ff8fc7; font-weight: 700; }
+    .path { fill: #c9a7ff; font-weight: 700; }
+    .cmd { fill: #fdeaf6; }
+    .out { fill: #e9dcff; }
+    .key { fill: #ffb3d9; }
+    .dim { fill: #9d8bb8; }
+    .big { fill: #ffd6ec; font-size: 34px; font-weight: 800; letter-spacing: 1px; }
+    .cursor { fill: #ff8fc7; animation: blink 1.1s steps(1) infinite; }
+    @keyframes blink { 50% { opacity: 0; } }
+  </style>
+  <defs>
+    <linearGradient id="bar" x1="0" x2="1">
+      <stop offset="0" stop-color="#ffc2e2"/>
+      <stop offset="1" stop-color="#d9c2ff"/>
+    </linearGradient>
+    <linearGradient id="name" x1="0" x2="1">
+      <stop offset="0" stop-color="#ff9ad2"/>
+      <stop offset="1" stop-color="#c3a3ff"/>
+    </linearGradient>
+  </defs>
+
+  <!-- window -->
+  <rect x="2" y="2" width="856" height="296" rx="14" fill="#241b33" stroke="#f3b6dc" stroke-width="2"/>
+  <path d="M2 16 a14 14 0 0 1 14 -14 h828 a14 14 0 0 1 14 14 v22 h-856 z" fill="url(#bar)"/>
+  <circle cx="26" cy="20" r="6.5" fill="#ff6b9a"/>
+  <circle cx="48" cy="20" r="6.5" fill="#ffc76b"/>
+  <circle cx="70" cy="20" r="6.5" fill="#8fe3b0"/>
+  <text x="430" y="25" text-anchor="middle" class="mono" font-size="13" font-weight="700" fill="#5a3d73">♡ safaa.exe — zsh — 80×24</text>
+
+  <g class="mono" font-size="16">
+    <g class="line l1">
+      <text x="28" y="76"><tspan class="prompt">safaa@tmu</tspan><tspan class="dim">:</tspan><tspan class="path">~</tspan><tspan class="dim">$ </tspan><tspan class="cmd">whoami</tspan></text>
+    </g>
+    <g class="line l2">
+      <text x="28" y="118" class="big" fill="url(#name)" style="fill:url(#name)">Safaa Zaoui</text>
+    </g>
+    <g class="line l3">
+      <text x="28" y="152"><tspan class="key">role</tspan><tspan class="out" x="110">→ Computer Science (Co-op) student @ Toronto Metropolitan University</tspan></text>
+    </g>
+    <g class="line l4">
+      <text x="28" y="180"><tspan class="key">focus</tspan><tspan class="out" x="110">→ software engineering · AI agents · full-stack mobile apps</tspan></text>
+    </g>
+    <g class="line l5">
+      <text x="28" y="208"><tspan class="key">status</tspan><tspan class="out" x="110">→ seeking SWE / AI internships &amp; co-ops ✨</tspan></text>
+    </g>
+    <g class="line l6">
+      <text x="28" y="254"><tspan class="prompt">safaa@tmu</tspan><tspan class="dim">:</tspan><tspan class="path">~</tspan><tspan class="dim">$ </tspan></text>
+      <rect class="cursor" x="156" y="240" width="10" height="18" rx="1"/>
+    </g>
+  </g>
+</svg>
