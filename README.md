@@ -107,7 +107,7 @@ Human-in-the-loop CLI agent that researches AI & tech news, validates model outp
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Safaazaoui&show_icons=true&hide_rank=true&hide=stars,issues&card_width=320&bg_color=241b33&title_color=ff8fc7&text_color=e9dcff&icon_color=c9a7ff&border_color=f3b6dc&border_radius=12" alt="Safaa's GitHub stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Safaazaoui&show_icons=true&hide_rank=true&hide=stars,issues,contribs&commits_year=2026&card_width=320&bg_color=241b33&title_color=ff8fc7&text_color=e9dcff&icon_color=c9a7ff&border_color=f3b6dc&border_radius=12" alt="Safaa's GitHub stats" />
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Safaazaoui&layout=compact&bg_color=241b33&title_color=ff8fc7&text_color=e9dcff&icon_color=c9a7ff&border_color=f3b6dc&border_radius=12" alt="Top languages" />
 
 <img src="https://streak-stats.demolab.com?user=Safaazaoui&background=241b33&border=f3b6dc&stroke=c9a7ff&ring=ff8fc7&fire=ff8fc7&currStreakNum=fdeaf6&sideNums=fdeaf6&currStreakLabel=ff8fc7&sideLabels=c9a7ff&dates=9d8bb8&border_radius=12" alt="GitHub streak" />
